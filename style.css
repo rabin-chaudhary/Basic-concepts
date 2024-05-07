@@ -28,7 +28,7 @@ button:hover {
 .stationary {
     height: 5rem;
     width: 5rem;
-    background-color: aquamarine;
+    background-color: yellowgreen;
     display: flex;
     justify-content: center;
 }
